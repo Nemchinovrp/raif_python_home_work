@@ -2,7 +2,6 @@ import random
 
 from main import print_hi
 
-list = [5, 8, 9, 4, 2, 9, 1, 8]
 
 def quick_sort(list):
     if len(list) > 1:
